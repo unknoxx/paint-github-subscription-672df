@@ -1,1 +1,1 @@
-# paint-github-subscription-672df
+# paint-github
